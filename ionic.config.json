@@ -1,0 +1,7 @@
+{
+  "name": "oferta-certa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
